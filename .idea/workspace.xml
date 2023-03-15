@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e1809bf-7ffb-43f7-99a4-4f23a0fa0b39" name="Changes" comment="New Trials">
-      <change afterPath="$PROJECT_DIR$/src/test/java/newFeature/NewTest02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +17,14 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="nweFeatureA" />
+    <option name="OPTIONS">
+      <set>
+        <option value="NO_FF" />
+      </set>
     </option>
   </component>
   <component name="Git.Settings">
