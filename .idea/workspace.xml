@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e1809bf-7ffb-43f7-99a4-4f23a0fa0b39" name="Changes" comment="Initial Commit for project">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Subject01/Test02.java" afterDir="false" />
+    <list default="true" id="7e1809bf-7ffb-43f7-99a4-4f23a0fa0b39" name="Changes" comment="Second Day of my Project">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Subject01/Test03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,26 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subject01.Test03" />
+      <module name="GitReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Subject01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test03" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678854968255</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Day of my Project">
+      <created>1678855904446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678855904446</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -73,6 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit for project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit for project" />
+    <MESSAGE value="Second Day of my Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Day of my Project" />
   </component>
 </project>
